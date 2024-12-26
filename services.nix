@@ -57,7 +57,7 @@ in
     package = pkgs.espanso;
   };
 
-  # services.flatpak.enable = true;
+   services.flatpak.enable = true;
 
   # Laikinai nereikalingi
 
