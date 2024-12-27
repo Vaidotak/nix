@@ -12,7 +12,6 @@
     searxng # Meta-paieškos sistema
     syncthing # Failų sinchronizavimas
     telegram-desktop # Telegram klientas
-    nullmailer # Pašto siuntimo programa (paprastam naudojimui)
 
 # Failų valdymas ir archyvavimas
     krusader # Failų tvarkyklė (panaši į Total Commander)
@@ -23,9 +22,7 @@
     parted # Disko particionavimo įrankis
     gparted # Grafinis disko particionavimo įrankis
     cryptsetup # Disko šifravimo įrankis
-    vsftpd # FTP serveris
     samba # Failų bendrinimo protokolas
-    nnn # Greita failų tvarkyklė
     
 # Programavimas ir teksto redagavimas
     neovim # Teksto redaktorius (Vim atšaka)
@@ -71,10 +68,6 @@
     dmenu # Dinaminis meniu
     xorg.xrandr # Ekrano konfigūravimas
     xorg.xsetroot # Fono paveikslėlio nustatymas
-    polybar # Būsenos juosta
-    picom # Kompozitorius
-    nitrogen # Fono paveikslėlių tvarkyklė
-    networkmanagerapplet # Tinklo valdymas
     dunst # Pranešimų sistema
 
 # Kitos programos
