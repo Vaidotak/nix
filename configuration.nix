@@ -3,13 +3,13 @@
 {
   imports = [
     ./hardware-configuration.nix
-    # ./networking.nix
-    # ./desktop.nix
-    # ./users.nix
-    # ./software.nix
-    # ./hardware.nix
-    # ./updates.nix
-    # ./services.nix
+    ./networking.nix
+    ./desktop.nix
+    ./users.nix
+    ./software.nix
+    ./hardware.nix
+    ./updates.nix
+    ./services.nix
   ];
 
   # Boot loader configuration
