@@ -1,7 +1,12 @@
 { config, pkgs, ... }:
 
 {
+home.packages = with pkgs; [
 
+    neofetch
+    nnn
+
+  ];
 
   #2024.12.26
   home.username = "vaidotak";

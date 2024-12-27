@@ -25,6 +25,7 @@
     cryptsetup # Disko šifravimo įrankis
     vsftpd # FTP serveris
     samba # Failų bendrinimo protokolas
+    nnn # Greita failų tvarkyklė
     
 # Programavimas ir teksto redagavimas
     neovim # Teksto redaktorius (Vim atšaka)
