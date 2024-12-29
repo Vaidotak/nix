@@ -68,7 +68,7 @@
     dmenu # Dinaminis meniu
     xorg.xrandr # Ekrano konfigūravimas
     xorg.xsetroot # Fono paveikslėlio nustatymas
-    dunst # Pranešimų sistema
+    # dunst # Pranešimų sistema
 
 # Kitos programos
     obsidian # Žinių valdymo programa

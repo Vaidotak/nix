@@ -57,7 +57,14 @@ in
     package = pkgs.espanso;
   };
 
-   services.flatpak.enable = true;
+  systemd.timers."sync-klipper".enable = true;
+systemd.services."sync-klipper" = {
+  script = ''#!/bin/bash
+  rsync -av ~/.local/share/klipper/history2.lst /home/vaidotak/;'';
+};
+
+
+  # services.flatpak.enable = true;
 
   # Laikinai nereikalingi
 
